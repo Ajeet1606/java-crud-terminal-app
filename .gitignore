@@ -1,0 +1,22 @@
+# IDE-specific files
+.idea/
+.vscode/
+.project
+.classpath
+
+# Build artifacts and compiled files
+target/
+bin/
+build/
+
+# Dependency directories
+lib/
+
+# Configuration files with sensitive information
+application.properties
+
+# Log files
+*.log
+
+# IDE-specific configuration files
+*.iml
